@@ -1,0 +1,5 @@
+user: staff
+pass: testingtesting
+
+user: admin
+pass: testingtesting
